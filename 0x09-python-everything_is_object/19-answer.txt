@@ -1,0 +1,6 @@
+3 lines (3 sloc)  65 Bytes
+
+#!/usr/bin/python3
+def copy_list(lista):
+    return lista.copy()
+
